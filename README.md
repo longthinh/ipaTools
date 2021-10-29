@@ -1,6 +1,6 @@
-# IPATool-py
+# ipaTools
 
-Python version of IPATool!
+Python version of ipaTools!
 
 ## Installation
 
@@ -30,7 +30,7 @@ python3 main.py lookup -b com.touchingapp.potatsolite -c JP download -e APPLE_EM
 
     Can also supply an optional output dir (e.g. ipa_output):
     ```
-    python3 main.py downlaod -i 123456 -e APPLE_EMAIL -p APPLE_PWD -o ipa_output
+    python3 main.py download -i 123456 -e APPLE_EMAIL -p APPLE_PWD -o ipa_output
     ```
 
 3. Get history version (supply an appVerId for target app):
@@ -54,4 +54,4 @@ python3 main.py lookup -b com.touchingapp.potatsolite -c JP download -e APPLE_EM
 
 ## Credit
 
-- Thanks @majd's ipatool, which is written in swift
+- Thanks @majd's ipaTools, which is written in swift
