@@ -25,7 +25,7 @@ python3 main.py lookup -b com.touchingapp.potatsolite -c JP download -e APPLE_EM
 
 2. Download app with specific appVerId (salableAdamId):
     ```
-    python3 main.py downlaod -i 123456 -e APPLE_EMAIL -p APPLE_PWD
+    python3 main.py download -i 123456 -e APPLE_EMAIL -p APPLE_PWD
     ```
 
     Can also supply an optional output dir (e.g. ipa_output):
