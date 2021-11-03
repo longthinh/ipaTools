@@ -54,4 +54,8 @@ python3 main.py lookup -b com.touchingapp.potatsolite -c JP download -e APPLE_EM
 
 ## Credit
 
-- Thanks @majd's ipaTools, which is written in swift
+⚠️ Warning: Do not copy in any form
+
+ Copyright & Author: @majd's
+
+™ Bug Fixer: longthinh
