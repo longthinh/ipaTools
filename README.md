@@ -58,4 +58,4 @@ python3 main.py lookup -b com.touchingapp.potatsolite -c JP download -e APPLE_EM
 
  Copyright & Author: @majd's
 
-™ Bug Fixer: longthinh
+™ Bug Fixer: @longthinh - Leͥgeͣnͫd
