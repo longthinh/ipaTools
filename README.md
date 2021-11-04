@@ -57,4 +57,5 @@ python3 main.py lookup -b com.touchingapp.potatsolite -c JP download -e APPLE_EM
 ⚠️ Warning: Do not copy in any form
 
 ™ Bug Fixer: @longthinh - Leͥgeͣnͫd
+
  Copyright & Author: @majd's
