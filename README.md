@@ -1,4 +1,4 @@
-# ipaTools
+# ipaTools-py
 
 Python version of ipaTools!
 
